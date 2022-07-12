@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/andrea-arseni/emporio-authorizer/issues"
   },
-  "homepage": "https://github.com/andrea-arseni/emporio-authorizer#readme"
+  "homepage": "https://github.com/andrea-arseni/emporio-authorizer#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3"
+  }
 }
